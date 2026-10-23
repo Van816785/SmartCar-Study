@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.uvprojx.user
+*.uvoptx.bak
+*.hex
+*.bin
+*.elf
+*.map
+.venv/
+local.*
