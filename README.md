@@ -1,4 +1,4 @@
-# SmartCar Open Source
+# SmartCar Study
 
 智能车开源项目、算法笔记与复现索引。
 
@@ -20,8 +20,13 @@
 
 ## 相关仓库
 
-- `SmartCar-Development`：私有开发仓库，包含当前实际参赛工程。
-- `RoboMaster-OpenSource`：RoboMaster 学习资料和开源项目索引。
-- `RoboMaster-Development`：私有 RoboMaster 开发仓库。
+- [SmartCar-DualBoard](https://github.com/Van816785/SmartCar-DualBoard)：私有双板项目，
+  作为独立工程开发和导入工作区。
+- [SmartCar-Project](https://github.com/Van816785/SmartCar-Project)：独立的旧单板工程，
+  保留历史实现和未完成的本地改动，作为学习与回溯参考。
+- [RoboMaster-Study](https://github.com/Van816785/RoboMaster-Study)：RoboMaster
+  学习资料和开源项目索引。
+- [RoboMaster-Project](https://github.com/Van816785/RoboMaster-Project)：私有 RoboMaster
+  开发仓库。
 
 本仓库原创文档采用 MIT License；外部项目和资料保留各自许可。
