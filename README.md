@@ -20,10 +20,8 @@
 
 ## 相关仓库
 
-- [SmartCar-DualBoard](https://github.com/Van816785/SmartCar-DualBoard)：私有双板项目，
-  作为独立工程开发和导入工作区。
-- [SmartCar-Project](https://github.com/Van816785/SmartCar-Project)：独立的旧单板工程，
-  保留历史实现和未完成的本地改动，作为学习与回溯参考。
+- [SmartCar-Project](https://github.com/Van816785/SmartCar-Project)：私有开发仓库，
+  包含当前实际参赛工程；旧单板代码和双板感知代码作为独立历史基线保留。
 - [RoboMaster-Study](https://github.com/Van816785/RoboMaster-Study)：RoboMaster
   学习资料和开源项目索引。
 - [RoboMaster-Project](https://github.com/Van816785/RoboMaster-Project)：私有 RoboMaster
